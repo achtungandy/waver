@@ -1,0 +1,7 @@
+{
+  "name": "Gemini WaveCreator",
+  "description": "A React webapp to create music videos from photos with audio visualization, powered by Gemini for metadata generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
